@@ -1,30 +1,50 @@
-# Hi there, I'm Ibrahim 👋
+# Hi, I'm Ibrahim Naik
 
-## 🚀 Full Stack Intern | AI Enthusiast | Engineer
+**Software Developer Intern | Python & Full-Stack Developer | Aspiring AI Engineer**
 
-I'm a passionate **Full Stack Developer Intern** with a keen interest in the world of **Artificial Intelligence**. Currently,I'm eager to make meaningful contributions to the AI field in the near future.
+I'm a software developer based in Mumbai, India, with a B.E. in Artificial Intelligence and Data Science. I build web applications and explore practical uses of LLMs, APIs, and Python automation.
 
-🌱 **I’m currently learning**:
-- Full Stack Development (React, Node.js, Express, MongoDB, etc.)
-- AI & Machine Learning (Deep Learning, NLP, TensorFlow, etc.)
+My experience includes **LLM training and prompt engineering**, **Gemini API-powered job matching**, and **full-stack application development** using React, Next.js, Node.js, TypeScript, Prisma, and SQL.
 
-🎓 **Educational Background**:
-- Bachelor's Degree in **Engineering** from **Rizvi College of Engineering**
+## Tech Stack
 
-## 🔍 What I’m working on:
-- Developing full-stack applications
-- Exploring AI models and frameworks
-- Contributing to open-source projects in AI and tech
+- **Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS
+- **Web & Backend:** React, Next.js, Node.js, FastAPI
+- **Databases & Data:** Prisma, MySQL, Pandas
+- **AI & Automation:** Prompt engineering, LLM evaluation workflows, Gemini API, Python automation
 
-## 💡 Interests:
-- **AI & Machine Learning**
-- **Deep Learning**
-- **Natural Language Processing**
-- **Data Science**
+## What I've Worked On
 
-## 📞 Connect with me:
-- 📧 **Email**: [ibrahimmnaikk@gmail.com](mailto:ibrahimmnaikk@gmail.com)
+### AI-Powered Job Matching Automation
+*Personal project — GitHub repository to be published*
 
----
+Developed a Python workflow that collects job listings, uses the Google Gemini API to compare them with resume content, applies relevance thresholds, and emails shortlisted opportunities.
 
-✨ *"The best way to predict the future is to create it."*
+**Technologies:** Python, Gemini API, Pandas, SMTP
+
+### School Management Platform
+*Internship project — details limited to publicly shareable responsibilities*
+
+Worked on a shift-management page and event-triggered notifications supporting communication across school management workflows.
+
+### Internal Business Applications
+*Internship projects — proprietary source code not shared*
+
+Contributing to systems for end-to-end project lifecycle tracking and internal bug/ticket management.
+
+## Currently Learning & Building
+
+- Building AI-powered applications with **Python and FastAPI**
+- Exploring AI libraries, LLM integrations, and application architecture
+- Improving API development, testing, and software engineering practices
+
+## Education
+
+**B.E. in Artificial Intelligence & Data Science** — Rizvi College of Engineering, Mumbai (2025)
+
+## Connect
+
+- **GitHub:** [@Ibrahim0240](https://github.com/Ibrahim0240)
+- **Email:** [ibrahimnaik@gmail.com](mailto:ibrahimnaik@gmail.com)
+
+> I enjoy turning ideas into useful applications, and I'm working toward a career in AI engineering.
